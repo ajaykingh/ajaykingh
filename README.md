@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ajaykingh
-- 👀 I’m interested in .developing a web site ..
+- 👋 Hi, I’m Ajay Singh
+- 👀 I’m interested in .developing websites ..
 - 🌱 I’m currently learning js and python...
-- 💞️ I’m looking to collaborate on .this project..
 - 📫 How to reach me ajaykingh07@gmail.com
 
 <!---
